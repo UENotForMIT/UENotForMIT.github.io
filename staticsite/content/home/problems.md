@@ -39,7 +39,7 @@ As a point of comparison we also include this theoretical population of 5000 MIT
 ![relative_contribution](relative_contribution.svg)
 
 To emphasize, this is not our total dues but only the fraction we would send to national.
-Clearly ** we would pay more than our fair share ** .
+Clearly [b]we would pay more than our fair share[/b].
 
 ##### Fiscal Responsibility
 The UE has claimed that they could support us financially should further issues arise, such as docking of wages due to strikes.
@@ -47,7 +47,7 @@ Full compensation for strike pay would be $20/hour * 20 hours/day * 5000 people 
 Currently, the UE has minimal financial assets, totaling approximately $2.5 M.
 This means that financing a grad student strike at 100% strike pay would exhaust all available assets ($2.5 M) and yearly income from dues ($4.35 M) in 8.5 days.
 At a more moderate 20% strike pay (which would not be enough for students to pay for housing and other necessities), this would still only last 42 days.
-Graduate student strikes at other institutions have lasted far longer, and we would be left completely unprotected.
+Graduate student strikes at other institutions have lasted longer, and we would be left completely unprotected.
 
 The bottom line is, the UE cannot protect us in the event of a strike and that any strike funds which could support us would be made of almost entirely our own contributions.
 
@@ -67,7 +67,7 @@ As a result, it is a critical prerequisite for collaboration that they have our 
 Joining the UE commits us to their political platform.
 Although the UE does not have political spending, they still hold a number of political views and [encourage their locals to support them as well](https://www.ueunion.org/ue-policy).  
 More importantly, Article 28 of the UE National Convention outlines that it is an obligation of members of the union to "bear true and faithful allegiance to the UE and will advance its programs and policies...".
-Clearly, by signing a union card and asking the UE to represent you, you also are blanketly agreeing to their policy.  
+By signing a union card and asking the UE to represent you, you also are blanketly agreeing to their policy.  
 
 
 These policies include a number of opinions and endorsements which run directly counter to the values of MIT graduate students:
@@ -84,8 +84,8 @@ However, this stems from a misunderstanding of the UE voting system.
 
 At the national convention, we would be limited to a maximum of 15 speaking delegates, while unions of only 30 members would still be eligible for a minimum of 3 (Article 22 Section F), this would significantly dilute our voice in discussions of policy.  
 
-Furthermore, although we would vote with our full membership strength, due to rounding up of smaller unions in determining voting strength, we would likely be disproportionately underrepresented, receiving less than our proportional 15% of the national union membership.
-The UE and the GSU have yet to answer our questions as to how these numberes worok out in practice. Importantly, the UE National Convention specifies "The basis of representation shall be one vote for every one hundred members or major fraction thereof."
+Furthermore, although we would vote with our full membership strength, due to rounding up of smaller unions in determining voting strength, we would likely be disproportionately underrepresented, receiving less than our proportional 13% of the national union membership.
+The UE and the GSU have yet to answer our questions as to how these numbers work out in practice. Importantly, the UE National Convention specifies "The basis of representation shall be one vote for every one hundred members or major fraction thereof."
 However, according to the data from the Department of Labor for local UE unions, the median union size is 50 members meaning that many small unions may be overrepresented.
 Here, we attempt to estimate the effect that such rounding would have on our ability to vote.
 This analysis is explicitly an approximation because the Deparment of Labor does not have data for all UE unions.
@@ -95,4 +95,4 @@ If we assume that the distribution of sizes of unions reporting to the Deparment
 
 This conservative analysis shows that there could be a 10% reduction in MIT's voting power simply from the size distribution of local unions.
 This reduction is increased to 25% if one assumes that all local unions get at least one vote.
-Clearly the rounding which occurs throughout this process can have a significant effect on MIT's voting power.
+Clearly the rounding which occurs throughout this process can significantly reduce on MIT's voting power.
