@@ -3,7 +3,7 @@ title: "Concerns with GSU/UE"
 weight: 10
 ---
 
-#### Financial concerns
+#### Financial Concerns
 The primary reasons given for aligning with the UE as a national union are financial. 
 Creating a union has start-up costs such as legal defense for the right to unionize, legal counsel for initial contract bargaining and constitutional drafting, and experienced volunteers to aid in the organizing process.   
 
@@ -58,7 +58,7 @@ One can see an obvious liquidation of assets as neccessary to keep the organizat
 
 These data reinforce the idea that the UE needs MIT financially far more than we need them and their connections.
 
-#### Independence concerns
+#### Independence Concerns
 Although the UE claims that "the locals run the union" and seeks a more hands-off approach than many other national unions, they would hold significant financial power over an affiliated GSU as described above.
 As a result, it is a critical prerequisite for collaboration that they have our interests at heart.
 
