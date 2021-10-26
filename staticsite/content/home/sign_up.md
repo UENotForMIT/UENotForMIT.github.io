@@ -1,6 +1,6 @@
 ---
 title: "Sign-up"
-weight: 11
+weight: 3
 ---
 
 #### Available mailing lists

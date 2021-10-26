@@ -4,3 +4,5 @@ headless: true
 ---
 
 An information site run by and for MIT graduate students.
+
+![logo](logo.svg)
