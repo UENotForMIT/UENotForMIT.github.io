@@ -39,7 +39,7 @@ As a point of comparison we also include this theoretical population of 5000 MIT
 ![relative_contribution](relative_contribution.svg)
 
 To emphasize, this is not our total dues but only the fraction we would send to national.
-Clearly [b]we would pay more than our fair share[/b].
+Clearly **we would pay more than our fair share**.
 
 ##### Fiscal Responsibility
 The UE has claimed that they could support us financially should further issues arise, such as docking of wages due to strikes.
