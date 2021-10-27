@@ -13,7 +13,7 @@ While these costs do exist, we do not need to align with the UE (or any other na
 As a UE local, we would pay a total of 1.44% of our salary in annual dues.
 Assuming 2000 work-hours per year at $20/hour, this comes to $576 per person, per year.
 Of this 1.65 hours per person per month go to the UE national, coming to $398 per person, per year ($178 stays in the local).
-There are approximately [7000](https://web.mit.edu/facts/enrollment.html) graduate students at MIT, while not all are eligible to unionize (by virtue of paying tuition), it is reasonable to assume that an eventual graduate union at MIT would represent at least 5000 members.
+There are approximately [7000](https://web.mit.edu/facts/enrollment.html) graduate students at MIT, and while not all are eligible to unionize (by virtue of paying tuition), it is reasonable to assume that an eventual graduate union at MIT would represent at least 5000 members.
 This comes to a total dues paid of $1.98 M/yr to the national, and $0.90 M/yr per year to the local.  
 
 ![dues_breakdown](/dues_breakdown.svg)
@@ -27,7 +27,7 @@ Per NLRB reporting, the total legal expenditures of the UE National Union in 201
 <span style="font-size:xx-large;"> $0.3 M + $2.27 M < $2.8 M </span>
 </p>
 
-Our total dues in our first year would be more than sufficient to cover the entirety of the UE's representational cost and the cost of their consultants.
+**Our total dues in our first year would be more than sufficient to cover the entirety of the UE's representational cost and the cost of their consultants.**
 For a union of our size, there is no need for this financial support.
 
 ##### The Magnitude of UE Income
@@ -39,7 +39,7 @@ As a point of comparison we also include this theoretical population of 5000 MIT
 ![relative_contribution](relative_contribution.svg)
 
 To emphasize, this is not our total dues but only the fraction we would send to national.
-Clearly **we would pay more than our fair share**.
+Clearly **we would pay three times our fair share**.
 
 ##### Fiscal Responsibility
 The UE has claimed that they could support us financially should further issues arise, such as docking of wages due to strikes.
@@ -49,7 +49,7 @@ This means that financing a grad student strike at 100% strike pay would exhaust
 At a more moderate 20% strike pay (which would not be enough for students to pay for housing and other necessities), this would still only last 42 days.
 Graduate student strikes at other institutions have lasted longer, and we would be left completely unprotected.
 
-The bottom line is, the UE cannot protect us in the event of a strike and that any strike funds which could support us would be made of almost entirely our own contributions.
+**The bottom line is, the UE cannot protect us in the event of a strike and that any strike funds which could support us would be made of almost entirely our own contributions.**
 
 Further enforcing this concern one can review the asset portfolio over the last 20 years.
 One can see an obvious liquidation of assets as neccessary to keep the organization afloat.  
@@ -64,7 +64,7 @@ As a result, it is a critical prerequisite for collaboration that they have our 
 
 
 ##### Policy
-Joining the UE commits us to their political platform.
+**Joining the UE commits us to their political platform.**
 Although the UE does not have political spending, they still hold a number of political views and [encourage their locals to support them as well](https://www.ueunion.org/ue-policy).  
 More importantly, Article 28 of the UE National Convention outlines that it is an obligation of members of the union to "bear true and faithful allegiance to the UE and will advance its programs and policies...".
 By signing a union card and asking the UE to represent you, you also are blanketly agreeing to their policy.  
@@ -82,10 +82,10 @@ Additionally, this has been a major problem in the advertising of the union as s
 Many GSU reps have claimed that we would have the power as a local to advocate for policy more to our tastes.
 However, this stems from a misunderstanding of the UE voting system.  
 
-At the national convention, we would be limited to a maximum of 15 speaking delegates, while unions of only 30 members would still be eligible for a minimum of 3 (Article 22 Section F), this would significantly dilute our voice in discussions of policy.  
+At the national convention, we would be limited to a maximum of 15 speaking delegates, while unions of only 30 members would still be eligible for a minimum of 3 (Article 22 Section F), **this would significantly dilute our voice in discussions of policy.**
 
 Furthermore, although we would vote with our full membership strength, due to rounding up of smaller unions in determining voting strength, we would likely be disproportionately underrepresented, receiving less than our proportional 13% of the national union membership.
-The UE and the GSU have yet to answer our questions as to how these numbers work out in practice. Importantly, the UE National Convention specifies "The basis of representation shall be one vote for every one hundred members or major fraction thereof."
+**The UE and the GSU have yet to answer our questions as to how these numbers work out in practice.** Importantly, the UE National Convention specifies "The basis of representation shall be one vote for every one hundred members or major fraction thereof."
 However, according to the data from the Department of Labor for local UE unions, the median union size is 50 members meaning that many small unions may be overrepresented.
 Here, we attempt to estimate the effect that such rounding would have on our ability to vote.
 This analysis is explicitly an approximation because the Deparment of Labor does not have data for all UE unions.
