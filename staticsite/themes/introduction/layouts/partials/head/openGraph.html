@@ -1,17 +1,20 @@
-<meta property="og:title" content="{{ .Title | markdownify }}{{ if ne .Title .Site.Title }} - {{ .Site.Title | markdownify }}{{ end }}" />
-<meta property="og:type" content="website" />
-<meta property="og:description" content="{{ if .Description }}{{ .Description }}{{ else }}{{ .Site.Params.description }}{{ end }}"/>
-<meta property="og:url" content="{{ .Permalink }}"/>
-<meta property="og:site_name" content="{{ .Site.Title | markdownify }}"/>
+<!-- HTML Meta Tags -->
+<title>Why not UE?</title>
+<meta name="description" content="Joining the UE as a national is a dangerous and unnecessary choice for MIT graduate students.">
 
-{{ with .Resources.ByType "image" }}
-{{ range first 5 (sort . "Params.weight") }}
-<meta property="og:image" content="{{ .Permalink }}"/>
-{{ end }}
-{{ else }}
-{{ with .Site.GetPage "page" "/home" }}
-{{ range first 5 (.Resources.ByType "image") }}
-<meta property="og:image" content="{{ .Permalink }}"/>
-{{ end }}
-{{ end }}
-{{ end }}
+<!-- Facebook Meta Tags -->
+<meta property="og:url" content="https://www.uenotformit.org/">
+<meta property="og:type" content="website">
+<meta property="og:title" content="Why not UE?">
+<meta property="og:description" content="Joining the UE as a national is a dangerous and unnecessary choice for MIT graduate students.">
+<meta property="og:image" content="https://www.uenotformit.org/logo.svg">
+
+<!-- Twitter Meta Tags -->
+<meta name="twitter:card" content="summary_large_image">
+<meta property="twitter:domain" content="uenotformit.org">
+<meta property="twitter:url" content="https://www.uenotformit.org/">
+<meta name="twitter:title" content="Why not UE?">
+<meta name="twitter:description" content="Joining the UE as a national is a dangerous and unnecessary choice for MIT graduate students.">
+<meta name="twitter:image" content="https://www.uenotformit.org/logo.svg">
+
+<!-- Meta Tags Generated via https://opengraph.dev -->
