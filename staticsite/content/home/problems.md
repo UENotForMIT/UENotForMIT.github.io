@@ -43,7 +43,7 @@ Clearly **we would pay more than our fair share**.
 
 ##### Fiscal Responsibility
 The UE has claimed that they could support us financially should further issues arise, such as docking of wages due to strikes.
-Full compensation for strike pay would be $20/hour * 20 hours/day * 5000 people = $0.8 M/day.
+Full compensation for strike pay would be $20/hour * 8 hours/day * 5000 people = $0.8 M/day.
 Currently, the UE has minimal financial assets, totaling approximately $2.5 M.
 This means that financing a grad student strike at 100% strike pay would exhaust all available assets ($2.5 M) and yearly income from dues ($4.35 M) in 8.5 days.
 At a more moderate 20% strike pay (which would not be enough for students to pay for housing and other necessities), this would still only last 42 days.
