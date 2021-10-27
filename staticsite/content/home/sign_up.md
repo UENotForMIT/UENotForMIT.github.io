@@ -5,8 +5,8 @@ weight: 29
 
 #### Available Mailing Lists
 You can signup and remove yourself from the following mailing lists:
-- [Announcement mailing list](http://mailman.mit.edu/mailman/listinfo/unionization-announce).
-- [Discussion mailing list](http://mailman.mit.edu/mailman/listinfo/uenotformit-discuss), for any unionization effort discussion.
+- [Announcement mailing list](http://mailman.mit.edu/mailman/listinfo/uenotformit-announce).
+- [Discussion mailing list](http://mailman.mit.edu/mailman/listinfo/unionization-discuss), for any unionization effort discussion.
 - [Contributor mailing list](http://mailman.mit.edu/mailman/listinfo/uenotformit-contributors), for adding information to this website!
 - Independent union organization mailing list.
 
