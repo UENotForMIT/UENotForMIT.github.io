@@ -18,14 +18,10 @@ Send a paper letter to the secretary treasurer of UE. In the letter, state that 
 rights. Make sure to include your name, street address, MIT student ID number, email address, and the chapter number 
 of GSU (MIT-GSU, UE local #256). Address the letter to:
 
-Andrew Dinkelaker
-
-UE General Secretary-Treasurer
-
-United Electrical Workers (UE)
-
-4 Smithfield St, 9th Floor
-
+Andrew Dinkelaker\
+UE General Secretary-Treasurer\
+United Electrical Workers (UE)\
+4 Smithfield St, 9th Floor\
 Pittsburgh, PA 15222
 
 Email an electronic copy of the letter to MIT’s administration at the address gradunionquestions@mit.edu and cc Ellen McClintock 
@@ -56,14 +52,10 @@ MIT student ID number, email address, and the chapter number of GSU (MIT-GSU, UE
 You should also explain why your sincerely held religious beliefs prohibit you from contributing 
 to the UE.  Address the letter to:
 
-Andrew Dinkelaker
-
-UE General Secretary-Treasurer
-
-United Electrical Workers (UE)
-
-4 Smithfield St, 9th Floor
-
+Andrew Dinkelaker\
+UE General Secretary-Treasurer\
+United Electrical Workers (UE)\
+4 Smithfield St, 9th Floor\
 Pittsburgh, PA 15222
 
 Email an electronic copy of the letter to MIT’s administration at the address gradunionquestions@mit.edu
