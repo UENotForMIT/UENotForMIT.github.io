@@ -1,6 +1,6 @@
 ---
 title: "How to Object"
-weight: 29
+weight: 28
 ---
 
 #### Beck Objection
