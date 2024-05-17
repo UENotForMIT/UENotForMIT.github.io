@@ -5,8 +5,8 @@ weight: 28
 
 #### Beck Objection
 The right to object to contributing to political speech is protected under the First Amendment. Under the Beck Objection 
-you are required to pay fees associated with the cost of the union representing you in bargaining (about 85% of total dues), 
-but you are exempt from paying the portion of union dues which goes to political activity (about 15% of the total dues). 
+you are required to pay fees associated with the cost of the union representing you in bargaining (about 61% of total dues), 
+but you are exempt from paying the portion of union dues which goes to political activity (about 39% of the total dues). 
 
 While UE makes no donations to political campaigns, UE and GSU employees are heavily involved in political activity, 
 UE runs a news organ which is heavily political, and the UE conference/summit makes many political statements. 
@@ -33,8 +33,10 @@ Email an electronic copy of your letter to GSU at contact@mitgsu.org to notify t
 If UE or GSU deny your Beck objection as they have done to other members, this is a violation of your civil rights under the first 
 amendment and you may press charges through the NLRB.
 
-Note that your paid fees should be equal to 61.2% of dues (0.88% salary), calculated as 79.0% of national dues, 
+**Note that your paid fees should be equal to 61.2% of dues** (0.88% salary), calculated as 79.0% of national dues, 
 93.6% of regional dues, and 0.0% of local dues.
+
+If you are told to pay a number equal to 84.4% of dues (1.22% salary), this is a factual misrepresentation by the UE, illegally requiring you to pay 100% of local dues instead of 0%. You should request documentation to support this number (which will correctly list 0% of local dues, while containing a mathematical error concluding 84.4% of total dues), and submit that documentation, including a note about the UE's misrepresentation of the math to both gradunionquestions@mit.edu and contact@mitgsu.org.
 
 
 #### Religious Objection
