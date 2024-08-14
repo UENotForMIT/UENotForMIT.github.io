@@ -38,6 +38,8 @@ amendment and you may press charges through the NLRB.
 
 If you are told to pay a number equal to 84.4% of dues (1.22% salary), this is a factual misrepresentation by the UE, illegally requiring you to pay 100% of local dues instead of 0%. You should request documentation to support this number (which will correctly list 0% of local dues, while containing a mathematical error concluding 84.4% of total dues), and submit that documentation, including a note about the UE's misrepresentation of the math to both gradunionquestions@mit.edu and contact@mitgsu.org.
 
+If you are told to pay a number calculated based on 79.0% of local dues (using the National union's audit), you may request to hold your Beck fees in escrow until the local union is audited as is legally required.
+
 
 #### Religious Objection
 If paying money in any amount to the UE is a violation of your sincerely held religious beliefs, you 
